@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">刮刮卡產生器</string>
+    <string name="creatButton">產生</string>
+    <string name="editTexthint">說點甚麼吧...</string>
+    <string name="big">大</string>
+    <string name="middle">中</string>
+    <string name="small">小</string>
+    <string name="colorButton">Color</string>
+    <string name="reset">reset</string>
+
+
+</resources>
